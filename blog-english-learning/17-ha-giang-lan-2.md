@@ -1,0 +1,46 @@
+# Hà Giang lần 2 / Hà Giang, Second Time Around
+*2012-05-05* (unfinished post — ends mid-story)
+
+---
+
+**VI**
+Qua rất nhiều biến cố, có lúc tưởng chừng phải tự vẽ cung, tìm nhà tìm đường, và đi 2 xe, rút cục sáng thứ 7, 5h ở cổng trường cao đẳng du lịch đã có 5 xe 9 mạng dắt díu nhau lên đường, cộng với nhà Ngọc Dũng theo sau nữa là đủ 2 mâm. Lúc 4h30 mình nhắn tin cho Dũng hỏi dậy chưa, thấy nhắn lại là "anh gần ra tới nơi rồi", tưởng là đúng giờ quá mức, ai ngờ là chém gió, 5h15 vẫn đang ở Phạm Hùng. Đón thêm Thu Au Tùm ở ngã tư Tam Hồng nữa là đủ quân số. Thẳng tiến theo quốc lộ 2C lên Tuyên Quang, con đường qua Lập Thạch vẫn xấu như mọi khi, bụi mù và sóc tưởng chừng bay ra khỏi xe. Ngoài việc chào hỏi nhầm 1 đoàn phượt ở cổng trường đại học điện lực chỗ HQV, thì tuyệt nhiên trên đường đi không gặp đoàn nào khác, có thể mình đi sớm, hoặc có thể là đường 2C xấu quá không có đội nào đi. Nói chung sau khoảng 20km xấu như gấu thì sang Tuyên Quang đường cũng đỡ hơn, nhất là mấy đoạn gần trại Tân Lập, đường mát mịn phóng tít sướng thôi rồi. Lên tới thành phố Tuyên Quang lúc chưa tới 10h, hơn 9h thì phải, mở máy ảnh ra định chụp cái "lò gạch" nhà Mạc, và phát hiện ra quên tịt cái thẻ nhớ ở nhà, thực ra đã cho thẻ ra khỏi lap rồi, nhưng vứt đâu thì chả biết, vì hôm trước còn phải dọn nhà để sơn lại. Chạy khắp một nẻo thành phố Tuyên Quang không mua dc cái thẻ thôi đành lên tiếp Hà Giang rồi tính. Có một sự cố nhỏ là lúc tới đầu TP Tuyên Quang, xe của Thu Thịnh được CSGT vẫy vào hỏi thăm, sau nghe kể lại thì mất 50k thì không có gương thì phải :))
+
+**EN**
+After a string of mishaps — at one point we thought we'd have to plot our own route, hunt for the right place, and split into 2 separate groups — in the end, 5am Saturday at the gate of the tourism college, 5 bikes with 9 people set off together, plus Ngọc Dũng's group following behind, making a full 2-table crowd. At 4:30 I texted Dũng asking if he was up — he replied "almost there, bro" — I figured he must be running unusually on time. Turns out he was full of it: at 5:15 he was still on Phạm Hùng street. We picked up Thu Au Tùm at Tam Hồng intersection to round out the group. Straight up Highway 2C toward Tuyên Quang — the stretch through Lập Thạch was as bad as ever, dust everywhere, bumps so rough you'd think you'd get bounced off the bike. Aside from accidentally greeting the wrong group of travelers at the gate of the electric power university near HQV, we didn't run into any other groups the whole way — maybe we left early, or maybe road 2C is just too bad for anyone else to bother. After about 20km of brutal road, things got better once we crossed into Tuyên Quang — especially near Tân Lập camp, smooth and lovely, great riding. Got to Tuyên Quang city before 10, more like just past 9. Pulled out my camera to shoot the Mạc dynasty "brick kiln" ruins, and realized — I'd left the memory card at home. I'd actually taken it out of my laptop already, but had no idea where I put it, since the house was a mess from repainting the day before. Searched all over Tuyên Quang city for a replacement card, no luck, so just pushed on to Hà Giang and figured I'd deal with it later. One small incident: at the edge of Tuyên Quang city, traffic police flagged down Thu Thịnh's bike — apparently cost him 50k for missing a mirror :))
+
+---
+
+**VI**
+Sau khi qua Tuyên Quang thì đội hình hoàn toàn rối loạn, mạnh thằng nào thằng nấy chạy, ko biết ai trước ai sau luôn, bọn nó 4 xe rẽ vào quán nghỉ mà mình và Dũng ko biết gì, vẫn chạy tiếp tít mù, rút cục dừng lại đợi ở cafe Trúc Vàng, một quán cafe vườn khá là mát mẻ sạch sẽ. Nghỉ trưa và ăn bánh mì ở đó. Cả 3 bữa trưa đều ăn kiểu linh tinh beng, nhưng nhờ ăn linh tinh mà đỡ tốn thời gian, chạy nhanh :))
+
+**EN**
+After Tuyên Quang the whole formation fell apart — everyone just rode at their own pace, no telling who was ahead of who. 4 bikes turned off into a rest stop while Dũng and I had no idea and just kept riding on and on, eventually stopping to wait at Trúc Vàng café, a pretty clean and breezy garden café. Had lunch and bread there. All three lunches on this trip were thrown-together affairs, but eating quick junk meant less time wasted — faster riding :))
+
+---
+
+**VI**
+Nắng nóng hộc hơi thì cũng lên tới TP Hà GIang lúc 3h30, ngồi nghỉ ngơi và ảnh ọt một tẹo ở mốc Hà Giang Km 0. Mình và Dung vào ngay cửa hàng Viettel to uỳnh gần đó, và mua dc cái adapter giá 10k, quá tuyệt, căn bản thẻ microSD thì đầy nhưng không có adapter để cho vào máy ảnh. Nên mua dc rất là mừng. Lúc sau ra ngồi uống dc hớp nước thì lại phải hộ tống ku Hồng vào đăng kí thông tin sim, bị chặn 2 chiều :-j Xong ra thì nhận tin dữ là cái thẻ 8G trong nook color đã rơi mất ko tìm thấy đâu, hehe. Nói chung chuyến đi này phần ảnh ọt rất chi lận đận, tất nhiên vẫn mang về dc 4G ảnh.
+
+**EN**
+Sweating it out under the blazing sun, we finally reached Hà Giang city at 3:30, and stopped to rest and take a few photos at the Hà Giang Km 0 marker. Dung and I went straight into a big Viettel store nearby and managed to find an adapter for 10k — great news, because we had a microSD card full of photos but no adapter to get it into the camera. So buying that felt like a real win. After that, while we were grabbing a drink, we had to escort Hồng to register his SIM card info — got stuck doing it on both phones :-j Then came the bad news: the 8GB card from the Nook Color had fallen out somewhere and was nowhere to be found, heh. Overall this trip was pretty cursed photo-wise, though we still came home with 4GB of pictures.
+
+---
+
+**VI**
+Nghỉ ở HG tới hơn 4h thì phóng lên Quản Bạ, nghỉ đêm ở đó, nhằm tiết kiệm thời gian, sáng mai lên Lũng Cú cho sớm. Đường lên Quản Bạ vẫn uốn khúc và quanh co như mọi khi, mỗi tội là đang làm lại nên bụi nhiều đá dăm, trơn, đi cũng hơi sợ sợ. Núi đôi ở Quản Bạ vẫn hấp dẫn và đẹp mê hồn, hehe. Không khí ở vùng cao rất thích, nhất là buổi tối và sáng sớm, trong lành và rộn rã tiếng chim kêu, vượn hót. Do sáng thứ 7 mới lên Hà Giang, nên hụt chợ Tiến Quyết họp vào sáng thứ 7, chợ Đồng Văn, Mèo Vạc họp sáng chủ nhật cũng không chạy kịp để đi, rất buồn. Nằm ngoái mình đi đc cả 3 cái chợ này, rất đông vui nhộn nhịp, màu sắc sặc sỡ, rất thích. Thật sự lên vùng cao mà không được hòa mình vào không khí của phiên chợ thì mất đi một nửa sự thú vị. Dù vậy Dung và Ngọc béo cũng kịp ghé chợ Yên Minh, gọi là hưởng 1 tí hơi thở miền núi.
+
+**EN**
+We rested in Hà Giang until past 4, then rode on to Quản Bạ to spend the night there, to save time so we could get to Lũng Cú early the next morning. The road to Quản Bạ was as winding as ever, except it was under construction, so lots of gravel and dust, a bit scary to ride on. The "Twin Mountains" at Quản Bạ were still gorgeous and captivating, heh. The mountain air up here is wonderful, especially in the evening and early morning — fresh and full of birdsong and gibbon calls. Since we only reached Hà Giang Saturday morning, we missed the Tiến Quyết market that runs Saturday morning, and we wouldn't make it in time for the Đồng Văn and Mèo Vạc markets on Sunday morning either — pretty disappointing. On a previous trip I'd managed to catch all 3 of those markets — so lively and colorful, really wonderful. Honestly, coming up to the highlands without experiencing a market day takes away half the fun. Still, Dung and "Fat Ngọc" managed to stop by Yên Minh market, just to get a taste of that mountain-life atmosphere.
+
+---
+
+**VI**
+Lịch lúc đầu là từ Quản Bạ lên Lũng Cú rồi về Đồng Văn, nhưng như thế thì cả buổi chiều ở Đồng Văn không biết làm gì, thế là quyết định chạy lên Phó Bảng, rồi ghé nhà họ Vương. Phó Bảng là một thị trấn nhỏ, chỉ kịp ghé vào chơi một gia đình cạnh đồn biên phòng, lúc đầu thấy 1-2 đứa đứng ở cửa ngó ra, Dung chạy vào cho kẹo thì ôi, 3, 4, 5, 6… đứa thò ra. Đông con kinh khủng luôn. Lít nhít lít nhít, đứa nào cũng nước mũi đặc thò lò. Đứa lớn nhất chắc là 6 tuổi, địu một thằng ku sau lưng, thằng nhóc đó ngủ tít mít chả biết gì. Chắc nó là chị cả, trông khổ nhất, tóc bết vào, Dung cố chải cho nó mà ko sao chải được, mắt nó cứ cúi cúi, rất buồn tủi ấy, đứa em liền sau nó thì khác, trông xinh xắn và nhanh nhẹn hơn, mặc dù cũng thò lò mũi xanh, tóc cũng mượt mà hơn, và rất là hợp thời nữa chứ.
+
+…còn tiếp…
+
+**EN**
+The original plan was Quản Bạ → Lũng Cú → back to Đồng Văn, but that would've left a whole free afternoon in Đồng Văn with nothing to do, so we decided to ride up to Phó Bảng instead, then visit the Vương family house. Phó Bảng is a tiny town — we only had time to drop by one family's home next to the border post. At first we saw 1-2 kids peeking out the door; Dung went over with candy, and suddenly — 3, 4, 5, 6... kids appeared. An insane number of children. All tiny, all with runny noses. The oldest looked about 6, carrying a baby boy on her back who was sound asleep, oblivious to everything. She was probably the eldest sister — looked the roughest off, hair all matted; Dung tried to comb it but couldn't manage. She kept her eyes down, looking really downcast. The sibling right after her was different — cuter and quicker, also runny-nosed but with smoother hair, and dressed quite fashionably too.
+
+*(...to be continued...)*
