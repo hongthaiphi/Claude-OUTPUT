@@ -68,7 +68,7 @@ Phân số a/b là số hữu tỉ khi a, b nguyên và b ≠ 0. Mọi số hữ
 
 **Người tìm ra:** Không có một người duy nhất — phân số xuất hiện độc lập ở Ai Cập, Babylon, Ấn Độ, Trung Quốc. Nhưng người hệ thống hóa và đặt nền tảng lý thuyết là Brahmagupta (cùng người phát minh số 0), khoảng 628 SCN.
 
-**Câu chuyện neo móc:** Người Babylon tính 1/7 rất thành thạo — họ có bảng đất sét ghi sẵn. Cách họ viết số là hệ 60 (sexagesimal), không phải hệ 10. Đó là lý do đến nay 1 giờ vẫn là 60 phút, 1 phút vẫn là 60 giây, và vòng tròn vẫn là 360 độ — tất cả là di sản từ hệ số 60 của Babylon 4.000 năm trước.
+**Câu chuyện neo móc:** Người Babylon tính các phân số như 1/3 hay 1/5 rất thành thạo — họ có bảng đất sét ghi sẵn. Cách họ viết số là hệ 60 (sexagesimal), không phải hệ 10. Đó là lý do đến nay 1 giờ vẫn là 60 phút, 1 phút vẫn là 60 giây, và vòng tròn vẫn là 360 độ — tất cả là di sản từ hệ số 60 của Babylon 4.000 năm trước.
 
 ---
 
@@ -174,7 +174,7 @@ Nhưng trước khi có đường thẳng, phải có mặt phẳng tọa độ.
 
 **Người tìm ra:** René Descartes, triết học gia và toán học người Pháp, khoảng 1637. Câu chuyện — có thể là giai thoại nhưng được kể lại rộng rãi — là Descartes nằm trên giường (ông có thói quen nằm đến trưa, dù là nhà tư tưởng lớn), nhìn con ruồi bò trên trần nhà và tự hỏi: làm sao mô tả chính xác vị trí của con ruồi đó bằng số? Câu trả lời: hai con số — khoảng cách đến hai bức tường kề nhau. Hệ trục tọa độ Descartes ra đời từ đó.
 
-**Câu chuyện neo móc:** Descartes cho rằng toàn bộ hình học có thể làm bằng đại số — mọi bài toán hình học đều chuyển thành tìm điểm thỏa mãn phương trình. Đây là bước nhảy vọt vì trước đó hình học và đại số là hai môn riêng biệt. Sau Descartes, chúng trở thành một. Tên đầy đủ của ông là René Descartes, người Pháp gọi là Cartesius — đó là lý do hệ trục tọa độ gọi là "hệ trục Cartesian".
+**Câu chuyện neo móc:** Descartes cho rằng toàn bộ hình học có thể làm bằng đại số — mọi bài toán hình học đều chuyển thành tìm điểm thỏa mãn phương trình. Đây là bước nhảy vọt vì trước đó hình học và đại số là hai môn riêng biệt. Sau Descartes, chúng trở thành một. Tên đầy đủ của ông là René Descartes, với tên tiếng Latin là Cartesius — đó là lý do hệ trục tọa độ gọi là "hệ trục Cartesian".
 
 ---
 
@@ -224,7 +224,7 @@ Nếu một đường thẳng song song với một cạnh của tam giác và c
 
 Trong tam giác vuông, bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông: a² + b² = c². Đây là định lý nổi tiếng nhất trong toán học — và có lẽ là định lý có nhiều bằng chứng nhất, trên 400 bằng chứng khác nhau.
 
-Nhưng người Babylon đã biết từ 1.000 năm trước Pythagoras. Bảng đất sét Plimpton 322, khoảng 1800 TCN, liệt kê các bộ số Pythagoras (3, 4, 5), (5, 12, 13), (8, 15, 17)... Người Ấn Độ cổ đại cũng biết. Người Trung Quốc cũng biết.
+Nhưng người Babylon đã biết từ 1.000 năm trước Pythagoras. Bảng đất sét Plimpton 322, khoảng 1800 TCN, liệt kê những bộ số Pythagoras cực kỳ phức tạp như (119, 120, 169) hay (3367, 3456, 4825)... Người Ấn Độ cổ đại cũng biết. Người Trung Quốc cũng biết.
 
 Vậy tại sao gọi là "định lý Pythagoras"?
 

@@ -6,7 +6,7 @@
 
 Có một câu hỏi tôi nghĩ đến lúc ngồi trên máy bay năm ngoái: cái máy 80 tấn này tại sao không rơi?
 
-Câu trả lời không phải ma thuật. Là vật lý. Cánh máy bay có hình dạng khiến không khí chạy nhanh hơn phía trên so với phía dưới — áp suất phía trên thấp hơn, áp suất phía dưới cao hơn — chênh lệch đó tạo ra lực nâng. Đủ lớn để nâng 80 tấn lên không trung.
+Câu trả lời không phải ma thuật. Là vật lý. Hình dạng và góc nghiêng của cánh máy bay ép luồng không khí hướng xuống dưới — theo định luật 3 Newton, không khí bị đẩy xuống thì phản lực đẩy cánh lên. Đồng thời, luồng khí phía trên cánh tăng tốc và áp suất giảm theo định luật Bernoulli — cả hai cơ chế cùng tạo ra lực nâng đủ để giữ 80 tấn trên không trung.
 
 Tôi học định luật Bernoulli trong một giờ vật lý nào đó, nhớ công thức, làm được bài, rồi quên. Không ai hỏi tôi: vậy tại sao máy bay không rơi?
 
@@ -76,7 +76,7 @@ Trên đỉnh Everest (8.849m), áp suất còn 33% mực nước biển — nư
 
 **Lực đẩy Archimedes**
 
-F_A = d_lỏng × V_chiếm_chỗ × g
+F_A = d_lỏng × V_chiếm_chỗ
 
 **Archimedes** (287–212 TCN) phát hiện nguyên lý khi bước vào bồn tắm và nhận ra nước tràn ra. Theo Plutarch ông la "Eureka!" chạy ra đường — câu chuyện có thể thêm thắt, nhưng nguyên lý thì không.
 
@@ -126,7 +126,7 @@ Q = m × c × Δt. Nhiệt dung riêng của nước c = 4.200 J/kg·K — cao n
 
 *Đối lưu:* Truyền qua dòng chất lỏng/khí chuyển động. Chất lỏng nóng nhẹ hơn nổi lên, lạnh nặng hơn chìm xuống. Gió biển là đối lưu: ban ngày đất nóng nhanh hơn biển, không khí trên đất nóng lên nổi lên, không khí mát từ biển thổi vào.
 
-*Bức xạ nhiệt:* Truyền qua sóng điện từ không cần môi trường. Mặt Trời truyền nhiệt qua 150 triệu km chân không bằng bức xạ. **Joseph Stefan** (1835–1893) và **Ludwig Boltzmann** (1844–1906) thiết lập công thức tính bức xạ nhiệt từ vật — Boltzmann sau đó dành phần lớn cuộc đời bảo vệ lý thuyết nguyên tử khi hầu hết nhà khoa học vẫn không tin nguyên tử tồn tại thật. Ông tự tử năm 1906 khi đang nghỉ dưỡng cùng gia đình, một phần do kiệt sức vì tranh luận. Hai năm sau, Einstein công bố bằng chứng nguyên tử thật qua chuyển động Brown. Boltzmann không kịp biết mình đúng.
+*Bức xạ nhiệt:* Truyền qua sóng điện từ không cần môi trường. Mặt Trời truyền nhiệt qua 150 triệu km chân không bằng bức xạ. **Joseph Stefan** (1835–1893) và **Ludwig Boltzmann** (1844–1906) thiết lập công thức tính bức xạ nhiệt từ vật — Boltzmann sau đó dành phần lớn cuộc đời bảo vệ lý thuyết nguyên tử khi hầu hết nhà khoa học vẫn không tin nguyên tử tồn tại thật. Ông tự tử năm 1906 khi đang nghỉ dưỡng cùng gia đình, một phần do kiệt sức vì tranh luận — mà không biết Einstein đã công bố giải thích toán học chuyển động Brown từ năm 1905, và Jean Perrin sẽ xác nhận bằng thực nghiệm năm 1908. Boltzmann đúng hoàn toàn. Chỉ không kịp biết.
 
 **Sự nở vì nhiệt**
 
@@ -156,7 +156,7 @@ Tần số (Hz): quyết định cao độ. Người nghe 20–20.000 Hz. Cườ
 
 **Phản xạ âm**
 
-Tiếng vang nghe được khi âm phản xạ về tai sau âm trực tiếp ≥ 1/15 giây — tương ứng khoảng cách >17m.
+Tiếng vang nghe được khi âm phản xạ về tai sau âm trực tiếp ≥ 1/15 giây — tương ứng khoảng cách >11m (340 m/s × 1/15 s ÷ 2).
 
 Thiết kế âm học phòng hòa nhạc là kỹ thuật tinh tế. Nhà hát Carnegie Hall ở New York (1891) được coi là gần như hoàn hảo về acoustics — thiết kế bởi William Burnet Tuthill, kiến trúc sư nghiệp dư, không được đào tạo về âm học. Ông đo vẽ nhiều nhà hát châu Âu, tự học, rồi thiết kế. Hiện đại không làm được tốt hơn bằng phần mềm mô phỏng.
 
