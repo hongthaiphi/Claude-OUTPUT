@@ -102,7 +102,7 @@ Trùng sốt rét (Plasmodium) — ký sinh trùng đơn bào sống trong hồn
 
 ### Ai điều khiển tim đập?
 
-Không phải não. Tim có nút xoang nhĩ (SA node) tự phát xung điện 60–100 lần/phút. Não chỉ điều chỉnh nhịp qua hệ thần kinh tự chủ — tăng khi hoạt động, giảm khi nghỉ. Tim cấy ghép không có dây thần kinh kết nối với não người nhận nhưng vẫn đập — vì SA node vẫn còn.
+Không phải não. Tim có nút xoang nhĩ (SA node) tự phát xung điện với tần số tự nhiên khoảng 100 lần/phút. Ở trạng thái nghỉ, hệ thần kinh đối giao cảm (dây thần kinh phế vị) liên tục "phanh" nhịp xuống còn 60–80 lần/phút. Não điều chỉnh nhịp qua hệ thần kinh tự chủ — tăng khi hoạt động, giảm khi nghỉ sâu. Tim cấy ghép không có dây thần kinh kết nối với não người nhận nên nhịp nghỉ thường cao hơn người bình thường (90–100 lần/phút) — SA node vẫn đập, chỉ không bị phanh.
 
 **Hệ vận động**
 
@@ -112,15 +112,15 @@ Người trưởng thành có 206 xương. Trẻ sơ sinh có ~270–300 xương
 
 **Tuần hoàn máu**
 
-Máu: 55% huyết tương + 45% tế bào (hồng cầu, bạch cầu, tiểu cầu). Hemoglobin gắn O₂ → đỏ tươi. Nhả O₂ → đỏ sẫm. Màu xanh của tĩnh mạch thấy qua da là do ánh sáng lọc qua da — không phải máu xanh.
+Máu: 55% huyết tương + 45% tế bào (hồng cầu, bạch cầu, tiểu cầu). Hemoglobin gắn O₂ → đỏ tươi. Nhả O₂ → đỏ sẫm. Màu xanh của tĩnh mạch thấy qua da là do hiệu ứng quang học: ánh sáng đỏ có bước sóng dài đâm xuyên sâu vào mô và bị hemoglobin hấp thụ, trong khi ánh sáng xanh lam có bước sóng ngắn bị tán xạ và phản xạ ngược lại mắt ta từ các lớp da phía trên — không phải máu xanh.
 
-Nhóm máu ABO: **Karl Landsteiner** (1868–1943) phát hiện năm 1901 — trước đó truyền máu người cho người ngẫu nhiên, đôi khi sống đôi khi chết, không ai biết tại sao. Landsteiner phát hiện kháng nguyên trên hồng cầu và kháng thể trong huyết tương — giải thích toàn bộ. Nobel Y học 1930. Phát hiện nhóm máu AB về sau do hai học trò của ông tìm thêm. Truyền máu từ đó trở nên an toàn — hàng triệu người sống sót nhờ một phát hiện của một người.
+Nhóm máu ABO: **Karl Landsteiner** (1868–1943) phát hiện năm 1901 — trước đó truyền máu người cho người ngẫu nhiên, đôi khi sống đôi khi chết, không ai biết tại sao. Năm 1901, ông tìm ra ba nhóm đầu tiên: A, B, và O (lúc đầu ông gọi là C). Kháng nguyên trên hồng cầu và kháng thể trong huyết tương — cơ chế tương hợp và bất tương hợp đã rõ. Nhóm AB tìm thêm năm 1902 bởi **Alfred von Decastello** và **Adriano Sturli**, đồng nghiệp của ông. Nobel Y học 1930. Truyền máu từ đó trở nên an toàn — hàng triệu người sống sót nhờ một phát hiện của một người.
 
 **William Harvey** (1578–1657) chứng minh máu tuần hoàn năm 1628. Trước ông, lý thuyết của Galen: máu được sản xuất liên tục ở gan và được tiêu thụ bởi các cơ quan — như nước chảy vào đất. Harvey đo lượng máu tim bơm mỗi phút: khoảng 4–5 lít. Gan không thể sản xuất nhanh như vậy. Phải có vòng tuần hoàn. Ông bị đồng nghiệp tẩy chay, bệnh nhân bỏ ông vì sợ ông "điên." Mất nhiều năm trước khi lý thuyết được chấp nhận. Nhưng Harvey đúng hoàn toàn — trừ một điểm: ông không thấy mao mạch nối động mạch với tĩnh mạch. **Marcello Malpighi** (1628–1694) tìm thấy mao mạch năm 1661 dưới kính hiển vi, hoàn thiện vòng tròn Harvey bỏ ngỏ.
 
 **Hô hấp**
 
-Người thở không phải vì cơ phổi co — phổi không có cơ. Ta thở nhờ cơ hoành và cơ liên sườn. Không khí thở vào có 21% O₂, thở ra còn 16% — đó là lý do hô hấp nhân tạo miệng-miệng có tác dụng.
+Người thở không phải vì cơ phổi co — phổi không có cơ. Ta hít vào nhờ cơ hoành và cơ liên sườn co chủ động, mở rộng lồng ngực. Khi thở ra bình thường, các cơ đó thả lỏng và phổi tự co lại theo cơ chế đàn hồi — không cần lực cơ nào thêm. Không khí thở vào có 21% O₂, thở ra còn 16% — đó là lý do hô hấp nhân tạo miệng-miệng có tác dụng.
 
 **Tiêu hóa**
 
@@ -192,7 +192,7 @@ Tăng trưởng quần thể trong điều kiện lý tưởng: hàm mũ. Trong 
 
 **Chuỗi và lưới thức ăn**
 
-Mỗi bậc dinh dưỡng giữ lại ~10% năng lượng từ bậc dưới. Đó là lý do thức ăn thực vật nuôi được nhiều người hơn thức ăn động vật trên cùng diện tích đất.
+Mỗi bậc dinh dưỡng chỉ chuyển được khoảng 10% năng lượng nhận được lên bậc kế tiếp — 90% còn lại tiêu hao dưới dạng nhiệt và hoạt động sống. Đó là lý do thức ăn thực vật nuôi được nhiều người hơn thức ăn động vật trên cùng diện tích đất.
 
 Loài then chốt (keystone species): **Robert Paine** (1933–2016) phát hiện khái niệm này năm 1966 bằng cách loại bỏ sao biển Pisaster khỏi một vùng bờ biển ở Washington. Không có sao biển ăn vẹm, vẹm chiếm toàn bộ bờ đá và đa dạng sinh học giảm mạnh. Tên "keystone species" do Paine đặt — lấy từ viên đá khóa (keystone) ở đỉnh vòm cổng: bỏ ra thì cả vòm sụp.
 
